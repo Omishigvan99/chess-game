@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="-40 0 234 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" xmlSpace="preserve" xmlnsSerif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-25.194,-8.28619)">
+        <g transform="matrix(1,0,0,1,566.727,103)">
+            <g id="BlackQueen">
+            </g>
+            <g id="WhiteQueen">
+            </g>
+            <g id="BlackKing">
+            </g>
+            <g id="WhiteKing">
+            </g>
+            <g id="BlackRook">
+            </g>
+            <g id="WhiteRook">
+                <path d="M-380.517,120.193C-377.783,120.193 -375.572,117.981 -375.572,115.246L-375.572,103.624C-375.572,100.889 -377.783,98.679 -380.517,98.679L-529.384,98.679C-532.117,98.679 -534.329,100.889 -534.329,103.624L-534.329,115.246C-534.329,117.981 -532.117,120.193 -529.384,120.193L-380.517,120.193Z" style="fill:white;fill-rule:nonzero;stroke:rgb(32,32,30);stroke-width:3.49px;"/>
+                <rect x="-526.332" y="80.364" width="142.766" height="18.319" style="fill:white;stroke:rgb(32,32,30);stroke-width:3.49px;"/>
+                <path d="M-383.566,80.364L-398.245,63.909L-511.653,63.909L-526.332,80.364L-383.566,80.364Z" style="fill:white;fill-rule:nonzero;stroke:rgb(32,32,30);stroke-width:3.49px;stroke-linejoin:bevel;"/>
+                <path d="M-379.092,-51.366L-398.245,-33.044L-511.653,-33.044L-530.869,-51.366L-379.092,-51.366Z" style="fill:white;fill-rule:nonzero;stroke:rgb(32,32,30);stroke-width:3.49px;stroke-linejoin:round;"/>
+                <rect x="-511.652" y="-33.044" width="113.256" height="96.963" style="fill:white;stroke:rgb(32,32,30);stroke-width:3.49px;"/>
+                <path d="M-383.758,-87.509L-410.174,-87.509L-410.174,-70.522L-424.998,-65.612L-438.667,-70.522L-438.667,-87.509L-471.229,-87.509L-471.229,-70.522L-484.897,-65.612L-499.723,-70.522L-499.723,-87.509L-526.139,-87.509C-528.751,-87.509 -530.868,-85.297 -530.868,-82.567L-530.868,-51.313L-379.025,-51.313L-379.025,-82.567C-379.028,-85.298 -381.145,-87.509 -383.756,-87.509L-383.758,-87.509Z" style="fill:white;fill-rule:nonzero;stroke:rgb(32,32,30);stroke-width:3.49px;stroke-linecap:square;"/>
+            </g>
+            <g id="BlackBishop">
+            </g>
+            <g id="WhiteBishop">
+            </g>
+            <g id="WhiteKnight">
+            </g>
+            <g id="BlackKnight">
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+
+.boardContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+    width: fit-content;
+    background-color: #e7b267;
+    /* transform: rotateZ(180deg); */
+}
+
+.board{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    gap: 0;
+    width: fit-content;
+    box-sizing: border-box;
+    border: 10px solid #816f56;
+    position:relative;
+    grid-column: 2;
+    grid-row: 2;
+    /* transform: rotateZ(180deg); */
+}
+
+.upperGuide,.lowerGuide{
+    padding-left: 10px;
+    padding-right: 10px;
+    /* background-color: red; */
+    width: fit-content;
+    grid-column: 2;
+    /* transform:rotateZ(180deg) */
+}
+
+.rightSideGuide,.leftSideGuide{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    /* background-color: red; */
+    display: grid;
+    grid-template-columns: auto;
+    width: fit-content;
+    grid-row: 2;
+    /* transform:rotateZ(180deg) */
+}
+
+.upperGuideItem,.rightSideGuideItem,.lowerGuideItem,.leftSideGuideItem{
+    display:inline-block;
+    width: 4rem;
+    text-align:center;
+    /* background-color: rgb(155, 96, 96); */
+}
+
+.rightSideGuideItem,.leftSideGuideItem{
+    width: 1.5rem;
+    height: 4rem;
+}
+
+button{
+    border:none;
+    /* transform: rotateZ(180deg); */
+}
